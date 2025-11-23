@@ -1,8 +1,4 @@
 <!-- Hero / Header -->
-<p align="center">
-  <img width="140" src="assets/profile.jpg" alt="profile-image" style="border-radius:999px" />
-</p>
-
 <h1 align="center">Namaste! 👋, I'm <strong>Pushpendra Patel</strong></h1>
 <p align="center">A Passionate Developer — Full Stack | Node.js | React | C++ | ML Enthusiast</p>
 
@@ -13,7 +9,7 @@
 ---
 
 ### 👋 About me
-- 🔭 Currently working on: **Backend**
+- 🔭 Currently working on: **Backend / Globe Communication**
 - 🌱 Learning: **Advanced React Patterns, System Design**
 - 💬 Ask me about: Full Stack Development, DSA, C/C++, JavaScript
 - 📫 Reach me at: **pp5395021@gmail.com**
