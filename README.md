@@ -55,8 +55,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/pushpendra-patel-0a4a36261/" target="_blank">LinkedIn</a> •
   <a href="https://leetcode.com/u/pp5395021/" target="_blank">LeetCode</a> •
-  <a href="mailto:pp5395021@gmail.com">Email</a> •
-  <a href="https://medium.com/@pp5395021" target="_blank">Medium</a>
+  <a href="mailto:pp5395021@gmail.com">Email</a>
 </p>
 
 ---
