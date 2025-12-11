@@ -1,6 +1,6 @@
 <!-- Hero / Header -->
 <h1 align="center">Namaste! 👋, I'm <strong>Pushpendra Patel</strong></h1>
-<p align="center">A Passionate Developer — Full Stack | Node.js | React | C++ | ML Enthusiast</p>
+<p align="center">A Passionate Developer — Full Stack | Node.js | React | C++ | AWS | ML Enthusiast</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pushpendra6376&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
